@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>missyou-controller</artifactId>
-    <version>1.0.2.RELEASE</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>pom</packaging>
     <description>请求处理层</description>
 
@@ -17,7 +17,7 @@
         <connection>scm:git:http://gitlab.skboyed.xyz/missyou/missyou-controller.git</connection>
         <developerConnection>scm:git:http://gitlab.skboyed.xyz/missyou/missyou-controller.git</developerConnection>
         <url>http://gitlab.skboyed.xyz/missyou/missyou-controller</url>
-      <tag>1.0.2.RELEASE</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <developers>
