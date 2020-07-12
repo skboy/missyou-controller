@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>missyou-controller</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.8-SNAPSHOT</version>
     <packaging>pom</packaging>
     <description>请求处理层</description>
 
